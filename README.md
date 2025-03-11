@@ -1,6 +1,8 @@
-# Award-Winning Website: Modern Design & Engaging UI/UX
-
 Welcome to my **Valorant** project! This website is designed to inspire and captivate, featuring a mix of scroll-triggered animations, geometric transitions, and engaging video storytelling. It’s all about delivering that luxurious, modern feel with an emphasis on engaging UI/UX and smooth responsiveness.
+
+## Check Live Site
+ 
+ - [Live Preview](https://valorant-brown.vercel.app/)
 
 ## ⚙️ Tech Stack
 
