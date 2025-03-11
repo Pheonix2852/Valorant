@@ -2,7 +2,7 @@ Welcome to my **Valorant** project! This website is designed to inspire and capt
 
 ## Check Live Site
  
- - [Live Preview](https://valorant-brown.vercel.app/)
+ - [Live Preview](https://valorant-new.vercel.app/)
 
 ## ⚙️ Tech Stack
 
